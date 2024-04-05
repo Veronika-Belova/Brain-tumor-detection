@@ -4,6 +4,7 @@ numpy
 packaging
 pillow
 streamlit
+requests
 torch
 tqdm
 libgl1
