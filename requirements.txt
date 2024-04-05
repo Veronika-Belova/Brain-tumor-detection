@@ -6,6 +6,5 @@ pillow
 streamlit
 requests
 torch
-tqdm
 libgl1
 libglib2.0-0
