@@ -5,6 +5,7 @@ from io import BytesIO
 import time
 import numpy as np
 import os
+import requests
 
 st.sidebar.title("Navigation")
 model_options = ["About the project", "Model 1", "Model 2", "Model 3"]
