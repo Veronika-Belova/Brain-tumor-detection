@@ -1,13 +1,10 @@
 import streamlit as st
 import torch
-import torchvision
-import torch.nn as nn
-import requests, cv2
 from PIL import Image
 from io import BytesIO
 import time
 import numpy as np
-import os, json, cv2
+import os
 
 st.sidebar.title("Navigation")
 model_options = ["About the project", "Model 1", "Model 2", "Model 3"]
