@@ -1,10 +1,5 @@
-Markdown
-markdown-it-py
-numpy
-packaging
-pillow
 streamlit
+torch
+Pillow
+numpy
 requests
-torch==1.10.0
-
-
