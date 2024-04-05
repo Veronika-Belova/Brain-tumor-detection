@@ -6,4 +6,5 @@ pillow
 streamlit
 torch
 tqdm
-
+libgl1
+libglib2.0-0
