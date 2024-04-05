@@ -3,4 +3,4 @@ torch
 Pillow
 numpy
 requests
-opencv-python-headless
+opencv-contrib-python-headless
